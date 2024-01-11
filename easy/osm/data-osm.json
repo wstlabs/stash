@@ -1,0 +1,306 @@
+type =  <class 'dict'>
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.96338248033601,
+                    40.7794396
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "osm_id": 3698894,
+                "extent": [
+                    -73.9651438,
+                    40.78092,
+                    -73.9616917,
+                    40.7778736
+                ],
+                "country": "United States",
+                "city": "New York",
+                "countrycode": "US",
+                "postcode": "10035",
+                "locality": "Upper East Side",
+                "type": "house",
+                "osm_type": "R",
+                "osm_key": "tourism",
+                "housenumber": "1000",
+                "street": "5th Avenue",
+                "district": "Manhattan",
+                "osm_value": "museum",
+                "name": "The Metropolitan Museum of Art",
+                "state": "NY"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9626445,
+                    40.7804473
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "osm_id": 4451144258,
+                "country": "United States",
+                "city": "New York",
+                "countrycode": "US",
+                "postcode": "10035",
+                "locality": "Upper East Side",
+                "type": "house",
+                "osm_type": "N",
+                "osm_key": "historic",
+                "housenumber": "1000",
+                "street": "5th Avenue",
+                "district": "Manhattan",
+                "osm_value": "monument",
+                "name": "Temple of Dendur",
+                "state": "NY"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9638164,
+                    40.7796005
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "osm_id": 5618087856,
+                "country": "United States",
+                "city": "New York",
+                "countrycode": "US",
+                "postcode": "10035",
+                "locality": "Upper East Side",
+                "type": "house",
+                "osm_type": "N",
+                "osm_key": "amenity",
+                "housenumber": "1000",
+                "street": "5th Avenue",
+                "district": "Manhattan",
+                "osm_value": "fast_food",
+                "name": "The Eatery",
+                "state": "NY"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9627323,
+                    40.7791444
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "osm_id": 5618087854,
+                "country": "United States",
+                "city": "New York",
+                "countrycode": "US",
+                "postcode": "10035",
+                "locality": "Upper East Side",
+                "type": "house",
+                "osm_type": "N",
+                "osm_key": "amenity",
+                "housenumber": "1000",
+                "street": "5th Avenue",
+                "district": "Manhattan",
+                "osm_value": "bar",
+                "name": "Great Hall Balcony Caf\u00e9 & Bar",
+                "state": "NY"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.68379605,
+                    40.72827015
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "osm_id": 1122818426,
+                "extent": [
+                    -73.6838695,
+                    40.7283398,
+                    -73.6837226,
+                    40.7282005
+                ],
+                "country": "United States",
+                "city": "Garden City",
+                "countrycode": "US",
+                "postcode": "11040",
+                "county": "Nassau",
+                "type": "house",
+                "osm_type": "W",
+                "osm_key": "building",
+                "housenumber": "1000",
+                "street": "5th Avenue",
+                "osm_value": "detached",
+                "state": "NY"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9846286,
+                    40.7246997
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "osm_id": 6288549213,
+                "country": "United States",
+                "city": "New York",
+                "countrycode": "US",
+                "postcode": "10009",
+                "locality": "East Village",
+                "type": "house",
+                "osm_type": "N",
+                "osm_key": "highway",
+                "street": "Avenue A",
+                "district": "Manhattan",
+                "osm_value": "bus_stop",
+                "name": "Avenue A & East 5th Street",
+                "state": "NY"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9771432,
+                    40.7219942
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "osm_id": 5243550899,
+                "country": "United States",
+                "city": "New York",
+                "countrycode": "US",
+                "postcode": "10009",
+                "locality": "Manhattan Community Board 3",
+                "type": "house",
+                "osm_type": "N",
+                "osm_key": "highway",
+                "street": "Avenue D",
+                "district": "Manhattan",
+                "osm_value": "bus_stop",
+                "name": "Avenue D & East 5th Street",
+                "state": "NY"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9940833,
+                    40.7362719
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "osm_id": 11040029966,
+                "country": "United States",
+                "city": "New York",
+                "countrycode": "US",
+                "postcode": "10003",
+                "locality": "Greenwich Village",
+                "type": "house",
+                "osm_type": "N",
+                "osm_key": "highway",
+                "street": "West 14th Street",
+                "district": "Manhattan",
+                "osm_value": "bus_stop",
+                "name": "West 14th Street & 5th Avenue",
+                "state": "NY"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9854014,
+                    40.7488896
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "osm_id": 5889477805,
+                "country": "United States",
+                "city": "New York",
+                "countrycode": "US",
+                "postcode": "10001",
+                "locality": "Manhattan Community Board 5",
+                "type": "house",
+                "osm_type": "N",
+                "osm_key": "highway",
+                "street": "West 34th Street",
+                "district": "Manhattan",
+                "osm_value": "bus_stop",
+                "name": "West 34th Street & 5th Avenue",
+                "state": "NY"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9923897,
+                    40.7372619
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "osm_id": 3708656531,
+                "country": "United States",
+                "city": "New York",
+                "countrycode": "US",
+                "postcode": "10003",
+                "locality": "Union Square",
+                "type": "house",
+                "osm_type": "N",
+                "osm_key": "amenity",
+                "street": "East 16th Street",
+                "district": "Manhattan",
+                "osm_value": "bicycle_rental",
+                "name": "Citi Bike - East 16th Street & 5th Avenue",
+                "state": "NY"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9855344,
+                    40.7473038
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "osm_id": 8996587946,
+                "country": "United States",
+                "city": "New York",
+                "countrycode": "US",
+                "postcode": "10001",
+                "locality": "Korea Town",
+                "type": "house",
+                "osm_type": "N",
+                "osm_key": "highway",
+                "street": "West 32nd Street",
+                "district": "Manhattan",
+                "osm_value": "bus_stop",
+                "name": "5th Avenue & 32nd Street",
+                "state": "NY"
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

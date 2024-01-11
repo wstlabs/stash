@@ -1,0 +1,8 @@
+curl -v --request GET \
+     --url https://api.yelp.com/v3/events/awesome-event \
+     --header 'Authorization: Bearer mOihZoW12gSWnXOw8WywDS2wjDCoCHM-iqHvOYqfc0dj7tgrBLlOd21x25cA9m5kFLshPqblqWGSdB7Cnyer9xOXUsotq9vUpNoMqWQd85KuTzINtQGfOTE0g8qdZXYx' \
+     --header 'accept: application/json'
+
+```
+{"error": {"code": "NOT_FOUND", "description": "Resource could not be found."}}%   
+```

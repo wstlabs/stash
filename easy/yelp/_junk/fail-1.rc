@@ -1,0 +1,4 @@
+curl -v --request GET \
+     --url 'https://api.yelp.com/v3/businesses/search?sort_by=best_match&limit=20' \
+     --header 'accept: application/json'
+
